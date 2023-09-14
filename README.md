@@ -9,3 +9,7 @@ Performs addition, subtraction, multiplication, and division.
 Simple and intuitive user interface.
 Provides accurate results for integer and floating-point operands.
 </pre>
+<h1>SceintificCalculator</h1>
+<pre>Hi!
+I am a scientific calculator that performs basic arithmetic operations on real numbers (integers or decimals). I performs trigonometric and logrithimic operations.as well as I also works same as simple calculator which is designed by my owner before.</pre>
+
