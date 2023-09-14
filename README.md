@@ -1,5 +1,5 @@
 # SimpleCalculator
-This is my first programe.
+This is my first program.
 <br>
 Author - Kakani Rikhil.
 <br>
