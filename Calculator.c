@@ -24,8 +24,14 @@ int main(){
     }
     else if(ch == '/'){
         printf("The Quotient is");
-        printf("\t%f / %f = %f",a,b,(a/b));
+        if(b == 0){
+            printf("\tCan't Divide by Zero");
+        }
+            else{
+              printf("\t%f / %f = %f",a,b,(a/b));
+            }
     }
+    
     else{
         printf("Invalid operator");
     }
