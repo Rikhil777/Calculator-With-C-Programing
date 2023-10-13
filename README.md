@@ -1,4 +1,4 @@
-# SimpleCalculator
+# Calculator
 This is my first program.
 <br>
 Author - Kakani Rikhil.
