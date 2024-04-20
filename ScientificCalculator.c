@@ -8,7 +8,7 @@ int main(){
     float b;
     char ch;
     float d;
-    const float PI = 3.14159265359;
+    const float PI = 3.1415926535;
     float radians = d * PI/180;
     double result;
 
